@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @phenry11
+- 👀 I’m interested in open source softwares Linux-based and add-ons for it.
+- 🌱 I’m currently learning 3D modeling with Blender. Eventually I'll need to learn someting in Python.
+- 💞️ I’m looking to collaborate on translate apps to my native language (Brasilian Portuguese) https://github.com/phenry11/phenry11
+- 📫 How to reach me? Right here. In my social network I am not doing nothing interesting.
